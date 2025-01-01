@@ -1,0 +1,390 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&family=Rubik:ital,wght@0,300..900;1,300..900&display=swap');
+
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: "rubik";
+}
+
+body {
+    background-color: #E7E7E3;
+}
+
+.navbar {
+    display: flex;
+    align-items: center;
+    margin-top: 30px;
+    justify-content: center;
+    background-color: white;
+    width: 1430px;
+    height: 110px;
+    margin-left: 30px;
+    border-radius: 30px;
+}
+.container-1 {
+    font-size: 10px;
+    display: flex;
+    gap: 40px;
+}
+
+.icon-1 {
+    width: 90px;
+}
+.zero{
+    background-color: rgb(255, 187, 0);
+    height: 20px;
+    width: 20px;
+    padding: 4px;
+    padding-left: 6px;
+    border-radius: 50%;
+}
+.logo-1 {
+    width: 500px;
+    margin-left: 250px;
+}
+
+.text-1 {
+    color: rgb(42, 40, 40);
+}
+
+span {
+    color: rgba(244, 196, 7, 0.847);
+}
+
+.crousal {
+    font-size: 80px;
+    margin-left: 300px;
+}
+
+.background {
+    background-image: url(image\ 14.png);
+    border-radius: 5%;
+    width: 1450px;
+    height: 800px;
+    background-size: cover;
+    margin: 20px;
+}
+
+.text-3 {
+    position: absolute;
+    margin-top: 500px;
+    margin-left: 20px;
+    color: white;
+    font-size: 30px;
+}
+
+.button-1 {
+    color: white;
+    background-color: rgba(255, 166, 0, 0.632);
+    font-size: 20px;
+    width: 120px;
+    height: 50px;
+    border-radius: 20%;
+    margin: 10px;
+}
+
+.shoes {
+    margin-left: 900px;
+}
+
+.shoes-2 {
+    height: 160px;
+}
+
+.para-2 {
+    font-size: 15px;
+    width: 250px;
+}
+
+.text-4 {
+    font-size: 20px;
+    width: 350px;
+    margin-left: 60px;
+}
+
+.button-4 {
+    color: white;
+    background-color: rgba(0, 0, 0, 0.639);
+    width: 150px;
+    height: 30px;
+    margin-left: 1200px;
+    border-radius: 10px;
+
+}
+
+.header {
+    background-image: url(shoes-1.png);
+    background-repeat: no-repeat;
+    width: 280px;
+    height: 290px;
+    border-radius: 10%;
+}
+
+.header-container {
+    display: flex;
+    gap: 50px;
+    margin-left: 80px;
+    margin-top: 10px;
+
+}
+
+.new {
+    color: white;
+    background-color: rgba(255, 166, 0, 0.762);
+    border-bottom-right-radius: 50%;
+    font-size: 15px;
+}
+
+.text-2 {
+    font-size: 16px;
+    width: 190px;
+    margin-left: 30px;
+}
+
+.Button-2 {
+    margin-left: 50px;
+    margin-top: 0px;
+    color: white;
+    background-color: black;
+    width: 150px;
+    font-size: 10px;
+}
+
+.main {
+    background-color: black;
+}
+
+.text-5 {
+    color: white;
+    margin: 50px;
+    display: flex;
+    align-items: end;
+}
+
+.bracket {
+    display: flex;
+    gap: 30px;
+    justify-content: center;
+    margin-left: 1000px;
+    background-color: white;
+    color: black;
+    width: 20px;
+}
+
+.curly-1 {
+    gap: 30px;
+    justify-content: center;
+    margin-left: 10px;
+    background-color: white;
+    color: black;
+    border-radius: 5px;
+    width: 20px;
+    padding-left: 6px;
+}
+
+.img-0 {
+    width: 500px;
+    margin-top: 50px;
+    margin-left: 100px;
+    border-top-left-radius: 40px;
+}
+
+.box{
+    color:white;
+}
+
+.lamon {
+    background-image: url(image\ 31\ \(1\).jpg);
+    width: 500px;
+    height: 480px;
+    background-repeat: no-repeat;
+    display: flex;
+    margin-left: 200px;
+    border-top-left-radius: 20px;
+}
+.das{
+    background-image: url(image\ 31.png);
+    width: 500px;
+    height: 480px;
+    border-top-right-radius: 20px;
+    
+}
+.text-6{
+    background-color: white;
+    color: black;
+    font-size: 20px;
+   margin-left: 200px;
+   width: 480px;
+}
+.main-container-lamon{
+    display: flex;   
+}
+.arrow{
+    width: 10px;
+    height: 10px;
+    color: black;
+}
+.text-7{
+    background-color: white;
+    color: black;
+    font-size: 20px;
+    width: 500px;
+}
+.revies{
+  font-size: 25px;
+  margin: 70px;
+}
+.main-card-container{
+    display: flex;                                                          
+}
+.card-1{
+    margin-left: 300px;
+    background-color: white;
+    width: 250px;
+    padding-left: 10px;
+    border-top-right-radius: 10px;
+      
+}
+.box{
+    display: flex;
+}
+.good{
+    display: flex;
+}
+.img-4{
+    margin-left: 100px;
+    width: 30px;
+    height: 30px;
+}
+
+.para-3{
+    color: gray;
+    width: 250px;
+    font-size: 15px;
+}
+.stars{
+    color: rgba(255, 200, 0, 0.518);
+    display: flex;
+    gap: 10px;
+}
+.time{
+    color: black;
+    margin-left: 10px;
+}
+.img-3{
+    width: 230px;
+   
+   border-bottom-left-radius: 10px;
+}
+.card-2{
+    margin-left: 60px;
+    background-color: white;
+    width: 250px;
+    padding-left: 10px;
+    border-top-right-radius: 10px;
+}
+.card-3{
+    margin-left: 60px;
+    background-color: white;
+    width: 250px;
+    padding-left: 10px;
+    border-top-right-radius: 10px;
+}
+.last{
+    background-color: rgb(255, 166, 0);
+    color: white;
+    height: 400px;
+    margin-top: 120px;
+}
+.text-8{
+    font-size: 30px;
+    width: 600px;
+    padding-left: 100px;
+    padding-top: 80px;
+}
+.last-1{
+    margin-left: 110px;
+    margin-top: 10px;
+}
+ .button-5{
+    width: 200px;
+    margin-top: 20px;
+    background-color: rgb(255, 166, 0);
+    color: white;
+    font-size: 13px;
+    border-radius: 5px;
+ }
+.button-6{
+    background-color: black;
+    color: white;
+    font-size: 12px;
+    border-radius: 5px;
+    width: 80px;
+} 
+.div-2{
+    display: flex;
+}
+.img-5{
+    margin-left: 450px;
+}
+.plus{
+    background-color: rgb(0, 81, 255);
+    border-radius: 50%;
+    height: 20px;
+    margin-left: 10px;
+   
+}
+.last-main-container{
+    display: flex;
+}
+.last-container-2{
+    color: rgb(255, 196, 0);
+    background-color: rgba(0, 0, 0, 0.852);
+    width: 1600px;
+    height: 300px;
+    display: flex;
+   
+}
+.line-1{
+    padding-top: 20px;
+    padding-left: 30px;
+}
+.points{
+    color:white;
+    margin-top: 20px;
+}
+.para{
+    width: 300px;
+}
+.line-2{
+   margin-left: 150px;
+}
+.point-2{
+    color: white;
+    margin-top: 30px;
+}
+.line-3{
+    margin-left: 150px;
+}
+.points-3{
+    color: white;
+    margin-top: 30px;
+}
+.line-4{
+margin-left: 150px;   
+}
+.points-4{
+    color: white;
+    margin-top: 30px;
+    word-spacing: 10px;
+}
+.group{
+    background-color: rgba(0, 0, 0, 0.852);
+    
+}
+.img-9{
+    margin-left: 100px;
+}
+
+
