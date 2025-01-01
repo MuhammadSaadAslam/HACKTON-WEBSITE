@@ -1,1 +1,0 @@
-self.__SSG_MANIFEST=new Set(["\u002Faccount","\u002Fapply-for-education-discount","\u002Fdelete-account","\u002Ffaq","\u002Fi-am-an-automattician","\u002Finstall\u002Fandroid","\u002Flogin","\u002Flove","\u002Fnot-activated","\u002Fprivacy","\u002Fsecurity","\u002Fsend-invite","\u002Fsupport","\u002Fterms"]);self.__SSG_MANIFEST_CB&&self.__SSG_MANIFEST_CB()
